@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/passion/static/css/main.14e77bee.chunk.css",
+    "main.js": "/passion/static/js/main.de916323.chunk.js",
+    "main.js.map": "/passion/static/js/main.de916323.chunk.js.map",
+    "runtime-main.js": "/passion/static/js/runtime-main.fb0d2ebd.js",
+    "runtime-main.js.map": "/passion/static/js/runtime-main.fb0d2ebd.js.map",
+    "static/js/2.8eec4f20.chunk.js": "/passion/static/js/2.8eec4f20.chunk.js",
+    "static/js/2.8eec4f20.chunk.js.map": "/passion/static/js/2.8eec4f20.chunk.js.map",
+    "index.html": "/passion/index.html",
+    "static/css/main.14e77bee.chunk.css.map": "/passion/static/css/main.14e77bee.chunk.css.map",
+    "static/js/2.8eec4f20.chunk.js.LICENSE.txt": "/passion/static/js/2.8eec4f20.chunk.js.LICENSE.txt",
+    "static/media/acting.704c16c9.jpg": "/passion/static/media/acting.704c16c9.jpg",
+    "static/media/danceClass.fe6ac691.jpg": "/passion/static/media/danceClass.fe6ac691.jpg",
+    "static/media/david-hofmann-POd35V_uE4k-unsplash.c5a6b423.jpg": "/passion/static/media/david-hofmann-POd35V_uE4k-unsplash.c5a6b423.jpg",
+    "static/media/jump-point.0b165f7c.png": "/passion/static/media/jump-point.0b165f7c.png",
+    "static/media/singing.a4e56f03.jpg": "/passion/static/media/singing.a4e56f03.jpg",
+    "static/media/App.css": "/passion/static/media/vidImg2.bc641dfc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb0d2ebd.js",
+    "static/js/2.8eec4f20.chunk.js",
+    "static/css/main.14e77bee.chunk.css",
+    "static/js/main.de916323.chunk.js"
+  ]
+}
